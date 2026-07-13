@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Particle Forge</string>
+    <string name="about">Sobre e licenças</string>
+    <string name="about_text">Clicker científico inspirado em física de partículas, adaptado do Particle Clicker.\n\nFonte: https://github.com/particle-clicker/particle-clicker\nLicença do jogo: MIT\n\nEste build usa anúncios de teste. Consulte os notices incluídos no projeto.</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
